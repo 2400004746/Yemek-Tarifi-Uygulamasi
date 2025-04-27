@@ -1,0 +1,1426 @@
+[
+  {
+    "ad": "Simit",
+    "malzemeler": [
+      "Karabiber",
+      "Biber",
+      "Bulgur",
+      "Yumurta"
+    ],
+    "asamalar": [
+      "Baharatları ekleyin.",
+      "Suda haşlayın.",
+      "Tüm malzemeleri karıştırın.",
+      "Fırında pişirin."
+    ]
+  },
+  {
+    "ad": "Tagine",
+    "malzemeler": [
+      "Un",
+      "Tuz",
+      "Sarımsak",
+      "Kırmızı Biber"
+    ],
+    "asamalar": [
+      "Fırında pişirin.",
+      "Baharatları ekleyin.",
+      "Yağda kavurun."
+    ]
+  },
+  {
+    "ad": "Bibimbap",
+    "malzemeler": [
+      "Un",
+      "Bulgur",
+      "Zeytinyağı",
+      "Sarımsak"
+    ],
+    "asamalar": [
+      "Yağda kavurun.",
+      "Tüm malzemeleri karıştırın.",
+      "Fırında pişirin.",
+      "Baharatları ekleyin.",
+      "Ocakta kaynatın."
+    ]
+  },
+  {
+    "ad": "Gazpacho",
+    "malzemeler": [
+      "Patates",
+      "Domates",
+      "Kırmızı Biber",
+      "Soğan",
+      "Tereyağı"
+    ],
+    "asamalar": [
+      "Suda haşlayın.",
+      "Tüm malzemeleri karıştırın.",
+      "Baharatları ekleyin.",
+      "Yağda kavurun."
+    ]
+  },
+  {
+    "ad": "Kimchi",
+    "malzemeler": [
+      "Tereyağı",
+      "Kırmızı Biber",
+      "Şeker",
+      "Soğan",
+      "Et",
+      "Biber"
+    ],
+    "asamalar": [
+      "Baharatları ekleyin.",
+      "Fırında pişirin.",
+      "Yağda kavurun."
+    ]
+  },
+  {
+    "ad": "Manti",
+    "malzemeler": [
+      "Karabiber",
+      "Kırmızı Biber",
+      "Süt",
+      "Tavuk"
+    ],
+    "asamalar": [
+      "Baharatları ekleyin.",
+      "Malzemeleri doğrayın.",
+      "Ocakta kaynatın.",
+      "Fırında pişirin."
+    ]
+  },
+  {
+    "ad": "Okonomiyaki",
+    "malzemeler": [
+      "Sarımsak",
+      "Bulgur",
+      "Patates",
+      "Biber"
+    ],
+    "asamalar": [
+      "Malzemeleri doğrayın.",
+      "Suda haşlayın.",
+      "Ocakta kaynatın.",
+      "Fırında pişirin.",
+      "Yağda kavurun."
+    ]
+  },
+  {
+    "ad": "Onigiri",
+    "malzemeler": [
+      "Kırmızı Biber",
+      "Tuz",
+      "Bulgur",
+      "Pirinç",
+      "Süt",
+      "Karabiber"
+    ],
+    "asamalar": [
+      "Yağda kavurun.",
+      "Baharatları ekleyin.",
+      "Ocakta kaynatın.",
+      "Suda haşlayın."
+    ]
+  },
+  {
+    "ad": "Pho",
+    "malzemeler": [
+      "Kırmızı Biber",
+      "Salça",
+      "Biber",
+      "Tereyağı",
+      "Sarımsak",
+      "Zeytinyağı"
+    ],
+    "asamalar": [
+      "Malzemeleri doğrayın.",
+      "Fırında pişirin.",
+      "Ocakta kaynatın.",
+      "Tüm malzemeleri karıştırın.",
+      "Suda haşlayın."
+    ]
+  },
+  {
+    "ad": "Bratwurst",
+    "malzemeler": [
+      "Kırmızı Biber",
+      "Et",
+      "Tavuk",
+      "Tuz",
+      "Patates",
+      "Yumurta"
+    ],
+    "asamalar": [
+      "Malzemeleri doğrayın.",
+      "Fırında pişirin.",
+      "Baharatları ekleyin.",
+      "Yağda kavurun.",
+      "Suda haşlayın."
+    ]
+  },
+  {
+    "ad": "Paella",
+    "malzemeler": [
+      "Pirinç",
+      "Tavuk",
+      "Süt",
+      "Domates",
+      "Patates"
+    ],
+    "asamalar": [
+      "Tüm malzemeleri karıştırın.",
+      "Baharatları ekleyin.",
+      "Yağda kavurun."
+    ]
+  },
+  {
+    "ad": "Arepas",
+    "malzemeler": [
+      "Un",
+      "Kırmızı Biber",
+      "Pirinç",
+      "Et",
+      "Bulgur"
+    ],
+    "asamalar": [
+      "Ocakta kaynatın.",
+      "Fırında pişirin.",
+      "Suda haşlayın.",
+      "Tüm malzemeleri karıştırın.",
+      "Yağda kavurun."
+    ]
+  },
+  {
+    "ad": "Pierogi",
+    "malzemeler": [
+      "Sarımsak",
+      "Süt",
+      "Patates",
+      "Karabiber",
+      "Soğan",
+      "Salça"
+    ],
+    "asamalar": [
+      "Tüm malzemeleri karıştırın.",
+      "Yağda kavurun.",
+      "Fırında pişirin."
+    ]
+  },
+  {
+    "ad": "Ratatouille",
+    "malzemeler": [
+      "Bulgur",
+      "Un",
+      "Zeytinyağı",
+      "Domates",
+      "Pirinç",
+      "Karabiber"
+    ],
+    "asamalar": [
+      "Tüm malzemeleri karıştırın.",
+      "Ocakta kaynatın.",
+      "Suda haşlayın.",
+      "Baharatları ekleyin."
+    ]
+  },
+  {
+    "ad": "Chicken Tikka Masala",
+    "malzemeler": [
+      "Patates",
+      "Yumurta",
+      "Tuz",
+      "Pirinç",
+      "Salça",
+      "Süt"
+    ],
+    "asamalar": [
+      "Yağda kavurun.",
+      "Ocakta kaynatın.",
+      "Tüm malzemeleri karıştırın."
+    ]
+  },
+  {
+    "ad": "Green Curry",
+    "malzemeler": [
+      "Soğan",
+      "Un",
+      "Tavuk",
+      "Domates",
+      "Kırmızı Biber"
+    ],
+    "asamalar": [
+      "Ocakta kaynatın.",
+      "Malzemeleri doğrayın.",
+      "Yağda kavurun.",
+      "Suda haşlayın."
+    ]
+  },
+  {
+    "ad": "Fish and Chips",
+    "malzemeler": [
+      "Süt",
+      "Soğan",
+      "Et",
+      "Pirinç"
+    ],
+    "asamalar": [
+      "Fırında pişirin.",
+      "Malzemeleri doğrayın.",
+      "Yağda kavurun."
+    ]
+  },
+  {
+    "ad": "Naan Ekmeği",
+    "malzemeler": [
+      "Soğan",
+      "Domates",
+      "Şeker",
+      "Pirinç"
+    ],
+    "asamalar": [
+      "Tüm malzemeleri karıştırın.",
+      "Ocakta kaynatın.",
+      "Malzemeleri doğrayın.",
+      "Baharatları ekleyin.",
+      "Yağda kavurun."
+    ]
+  },
+  {
+    "ad": "Bulgur Pilavı",
+    "malzemeler": [
+      "Tereyağı",
+      "Soğan",
+      "Kırmızı Biber",
+      "Süt",
+      "Biber",
+      "Un"
+    ],
+    "asamalar": [
+      "Suda haşlayın.",
+      "Tüm malzemeleri karıştırın.",
+      "Ocakta kaynatın.",
+      "Yağda kavurun.",
+      "Fırında pişirin."
+    ]
+  },
+  {
+    "ad": "Focaccia",
+    "malzemeler": [
+      "Et",
+      "Domates",
+      "Pirinç",
+      "Tereyağı",
+      "Süt",
+      "Sarımsak"
+    ],
+    "asamalar": [
+      "Yağda kavurun.",
+      "Fırında pişirin.",
+      "Baharatları ekleyin.",
+      "Malzemeleri doğrayın."
+    ]
+  },
+  {
+    "ad": "Minestrone Çorbası",
+    "malzemeler": [
+      "Karabiber",
+      "Süt",
+      "Sarımsak",
+      "Bulgur"
+    ],
+    "asamalar": [
+      "Tüm malzemeleri karıştırın.",
+      "Suda haşlayın.",
+      "Ocakta kaynatın.",
+      "Malzemeleri doğrayın.",
+      "Fırında pişirin."
+    ]
+  },
+  {
+    "ad": "Hot Dog",
+    "malzemeler": [
+      "Tavuk",
+      "Patates",
+      "Şeker",
+      "Domates",
+      "Un"
+    ],
+    "asamalar": [
+      "Malzemeleri doğrayın.",
+      "Fırında pişirin.",
+      "Ocakta kaynatın.",
+      "Baharatları ekleyin."
+    ]
+  },
+  {
+    "ad": "Samgyeopsal",
+    "malzemeler": [
+      "Bulgur",
+      "Domates",
+      "Yumurta",
+      "Şeker"
+    ],
+    "asamalar": [
+      "Tüm malzemeleri karıştırın.",
+      "Ocakta kaynatın.",
+      "Baharatları ekleyin."
+    ]
+  },
+  {
+    "ad": "Tteokbokki",
+    "malzemeler": [
+      "Un",
+      "Yumurta",
+      "Salça",
+      "Zeytinyağı",
+      "Bulgur",
+      "Et"
+    ],
+    "asamalar": [
+      "Baharatları ekleyin.",
+      "Malzemeleri doğrayın.",
+      "Suda haşlayın."
+    ]
+  },
+  {
+    "ad": "Adana Kebap",
+    "malzemeler": [
+      "Domates",
+      "Yumurta",
+      "Patates",
+      "Soğan"
+    ],
+    "asamalar": [
+      "Suda haşlayın.",
+      "Tüm malzemeleri karıştırın.",
+      "Baharatları ekleyin."
+    ]
+  },
+  {
+    "ad": "Shakshuka",
+    "malzemeler": [
+      "Soğan",
+      "Sarımsak",
+      "Yumurta",
+      "Süt"
+    ],
+    "asamalar": [
+      "Fırında pişirin.",
+      "Ocakta kaynatın.",
+      "Baharatları ekleyin.",
+      "Malzemeleri doğrayın.",
+      "Suda haşlayın."
+    ]
+  },
+  {
+    "ad": "Coq au Vin",
+    "malzemeler": [
+      "Şeker",
+      "Tereyağı",
+      "Salça",
+      "Süt",
+      "Kırmızı Biber"
+    ],
+    "asamalar": [
+      "Ocakta kaynatın.",
+      "Tüm malzemeleri karıştırın.",
+      "Fırında pişirin.",
+      "Malzemeleri doğrayın."
+    ]
+  },
+  {
+    "ad": "Quesadilla",
+    "malzemeler": [
+      "Tuz",
+      "Şeker",
+      "Soğan",
+      "Patates",
+      "Domates"
+    ],
+    "asamalar": [
+      "Fırında pişirin.",
+      "Ocakta kaynatın.",
+      "Baharatları ekleyin.",
+      "Malzemeleri doğrayın."
+    ]
+  },
+  {
+    "ad": "Schnitzel",
+    "malzemeler": [
+      "Salça",
+      "Et",
+      "Bulgur",
+      "Kırmızı Biber"
+    ],
+    "asamalar": [
+      "Yağda kavurun.",
+      "Fırında pişirin.",
+      "Tüm malzemeleri karıştırın.",
+      "Ocakta kaynatın."
+    ]
+  },
+  {
+    "ad": "Tacos",
+    "malzemeler": [
+      "Un",
+      "Şeker",
+      "Patates",
+      "Karabiber",
+      "Pirinç",
+      "Zeytinyağı"
+    ],
+    "asamalar": [
+      "Tüm malzemeleri karıştırın.",
+      "Ocakta kaynatın.",
+      "Malzemeleri doğrayın.",
+      "Suda haşlayın."
+    ]
+  },
+  {
+    "ad": "Hamburger",
+    "malzemeler": [
+      "Soğan",
+      "Tuz",
+      "Un",
+      "Et",
+      "Biber"
+    ],
+    "asamalar": [
+      "Suda haşlayın.",
+      "Malzemeleri doğrayın.",
+      "Yağda kavurun."
+    ]
+  },
+  {
+    "ad": "Fried Chicken",
+    "malzemeler": [
+      "Biber",
+      "Karabiber",
+      "Domates",
+      "Un"
+    ],
+    "asamalar": [
+      "Yağda kavurun.",
+      "Fırında pişirin.",
+      "Suda haşlayın.",
+      "Tüm malzemeleri karıştırın."
+    ]
+  },
+  {
+    "ad": "Croissant",
+    "malzemeler": [
+      "Tuz",
+      "Soğan",
+      "Salça",
+      "Biber",
+      "Pirinç"
+    ],
+    "asamalar": [
+      "Baharatları ekleyin.",
+      "Fırında pişirin.",
+      "Suda haşlayın.",
+      "Ocakta kaynatın."
+    ]
+  },
+  {
+    "ad": "Poutine",
+    "malzemeler": [
+      "Domates",
+      "Tereyağı",
+      "Soğan",
+      "Pirinç",
+      "Biber"
+    ],
+    "asamalar": [
+      "Ocakta kaynatın.",
+      "Malzemeleri doğrayın.",
+      "Tüm malzemeleri karıştırın."
+    ]
+  },
+  {
+    "ad": "Souvlaki",
+    "malzemeler": [
+      "Kırmızı Biber",
+      "Pirinç",
+      "Soğan",
+      "Tavuk",
+      "Tuz",
+      "Zeytinyağı"
+    ],
+    "asamalar": [
+      "Malzemeleri doğrayın.",
+      "Yağda kavurun.",
+      "Ocakta kaynatın."
+    ]
+  },
+  {
+    "ad": "Pasta Alfredo",
+    "malzemeler": [
+      "Tuz",
+      "Patates",
+      "Un",
+      "Biber"
+    ],
+    "asamalar": [
+      "Yağda kavurun.",
+      "Suda haşlayın.",
+      "Ocakta kaynatın.",
+      "Fırında pişirin."
+    ]
+  },
+  {
+    "ad": "Clam Chowder",
+    "malzemeler": [
+      "Süt",
+      "Yumurta",
+      "Sarımsak",
+      "Tavuk",
+      "Patates",
+      "Tuz"
+    ],
+    "asamalar": [
+      "Yağda kavurun.",
+      "Baharatları ekleyin.",
+      "Suda haşlayın."
+    ]
+  },
+  {
+    "ad": "Spaghetti Bolognese",
+    "malzemeler": [
+      "Pirinç",
+      "Un",
+      "Karabiber",
+      "Şeker",
+      "Süt"
+    ],
+    "asamalar": [
+      "Ocakta kaynatın.",
+      "Malzemeleri doğrayın.",
+      "Tüm malzemeleri karıştırın.",
+      "Suda haşlayın.",
+      "Baharatları ekleyin."
+    ]
+  },
+  {
+    "ad": "Pekin Ördeği",
+    "malzemeler": [
+      "Sarımsak",
+      "Biber",
+      "Süt",
+      "Soğan"
+    ],
+    "asamalar": [
+      "Malzemeleri doğrayın.",
+      "Tüm malzemeleri karıştırın.",
+      "Yağda kavurun.",
+      "Baharatları ekleyin."
+    ]
+  },
+  {
+    "ad": "Mango Sticky Rice",
+    "malzemeler": [
+      "Soğan",
+      "Karabiber",
+      "Zeytinyağı",
+      "Patates",
+      "Tavuk"
+    ],
+    "asamalar": [
+      "Malzemeleri doğrayın.",
+      "Fırında pişirin.",
+      "Baharatları ekleyin.",
+      "Tüm malzemeleri karıştırın.",
+      "Ocakta kaynatın."
+    ]
+  },
+  {
+    "ad": "Falafel",
+    "malzemeler": [
+      "Soğan",
+      "Tereyağı",
+      "Zeytinyağı",
+      "Pirinç",
+      "Tavuk"
+    ],
+    "asamalar": [
+      "Baharatları ekleyin.",
+      "Ocakta kaynatın.",
+      "Yağda kavurun.",
+      "Malzemeleri doğrayın.",
+      "Tüm malzemeleri karıştırın."
+    ]
+  },
+  {
+    "ad": "İskender",
+    "malzemeler": [
+      "Kırmızı Biber",
+      "Tuz",
+      "Tereyağı",
+      "Domates"
+    ],
+    "asamalar": [
+      "Tüm malzemeleri karıştırın.",
+      "Baharatları ekleyin.",
+      "Fırında pişirin.",
+      "Suda haşlayın."
+    ]
+  },
+  {
+    "ad": "Guacamole",
+    "malzemeler": [
+      "Tereyağı",
+      "Soğan",
+      "Patates",
+      "Biber",
+      "Salça"
+    ],
+    "asamalar": [
+      "Baharatları ekleyin.",
+      "Yağda kavurun.",
+      "Ocakta kaynatın.",
+      "Malzemeleri doğrayın."
+    ]
+  },
+  {
+    "ad": "Goulash",
+    "malzemeler": [
+      "Kırmızı Biber",
+      "Karabiber",
+      "Tuz",
+      "Patates",
+      "Bulgur"
+    ],
+    "asamalar": [
+      "Tüm malzemeleri karıştırın.",
+      "Suda haşlayın.",
+      "Fırında pişirin.",
+      "Malzemeleri doğrayın."
+    ]
+  },
+  {
+    "ad": "Empanadas",
+    "malzemeler": [
+      "Biber",
+      "Tavuk",
+      "Karabiber",
+      "Un",
+      "Pirinç",
+      "Şeker"
+    ],
+    "asamalar": [
+      "Suda haşlayın.",
+      "Tüm malzemeleri karıştırın.",
+      "Yağda kavurun.",
+      "Fırında pişirin.",
+      "Malzemeleri doğrayın."
+    ]
+  },
+  {
+    "ad": "Feijoada",
+    "malzemeler": [
+      "Un",
+      "Tuz",
+      "Kırmızı Biber",
+      "Süt",
+      "Şeker",
+      "Salça"
+    ],
+    "asamalar": [
+      "Tüm malzemeleri karıştırın.",
+      "Ocakta kaynatın.",
+      "Suda haşlayın.",
+      "Baharatları ekleyin.",
+      "Fırında pişirin."
+    ]
+  },
+  {
+    "ad": "Kartoffelsalat",
+    "malzemeler": [
+      "Şeker",
+      "Tereyağı",
+      "Bulgur",
+      "Biber",
+      "Salça",
+      "Pirinç"
+    ],
+    "asamalar": [
+      "Baharatları ekleyin.",
+      "Malzemeleri doğrayın.",
+      "Suda haşlayın."
+    ]
+  },
+  {
+    "ad": "Baklava",
+    "malzemeler": [
+      "Kırmızı Biber",
+      "Yumurta",
+      "Tuz",
+      "Karabiber"
+    ],
+    "asamalar": [
+      "Suda haşlayın.",
+      "Fırında pişirin.",
+      "Baharatları ekleyin.",
+      "Yağda kavurun.",
+      "Malzemeleri doğrayın."
+    ]
+  },
+  {
+    "ad": "Lahmacun",
+    "malzemeler": [
+      "Tavuk",
+      "Kırmızı Biber",
+      "Süt",
+      "Tuz",
+      "Zeytinyağı"
+    ],
+    "asamalar": [
+      "Malzemeleri doğrayın.",
+      "Ocakta kaynatın.",
+      "Yağda kavurun."
+    ]
+  },
+  {
+    "ad": "Pizza Margherita",
+    "malzemeler": [
+      "Yumurta",
+      "Salça",
+      "Tuz",
+      "Süt"
+    ],
+    "asamalar": [
+      "Yağda kavurun.",
+      "Tüm malzemeleri karıştırın.",
+      "Ocakta kaynatın.",
+      "Baharatları ekleyin."
+    ]
+  },
+  {
+    "ad": "Tiramisu",
+    "malzemeler": [
+      "Zeytinyağı",
+      "Yumurta",
+      "Un",
+      "Şeker",
+      "Süt"
+    ],
+    "asamalar": [
+      "Fırında pişirin.",
+      "Baharatları ekleyin.",
+      "Malzemeleri doğrayın."
+    ]
+  },
+  {
+    "ad": "Karnıyarık",
+    "malzemeler": [
+      "Bulgur",
+      "Şeker",
+      "Kırmızı Biber",
+      "Patates"
+    ],
+    "asamalar": [
+      "Ocakta kaynatın.",
+      "Yağda kavurun.",
+      "Malzemeleri doğrayın.",
+      "Tüm malzemeleri karıştırın.",
+      "Baharatları ekleyin."
+    ]
+  },
+  {
+    "ad": "Tzatziki",
+    "malzemeler": [
+      "Tavuk",
+      "Kırmızı Biber",
+      "Sarımsak",
+      "Tuz",
+      "Pirinç"
+    ],
+    "asamalar": [
+      "Baharatları ekleyin.",
+      "Ocakta kaynatın.",
+      "Malzemeleri doğrayın.",
+      "Tüm malzemeleri karıştırın.",
+      "Yağda kavurun."
+    ]
+  },
+  {
+    "ad": "Okra Stew",
+    "malzemeler": [
+      "Kırmızı Biber",
+      "Et",
+      "Tereyağı",
+      "Sarımsak",
+      "Domates",
+      "Salça"
+    ],
+    "asamalar": [
+      "Suda haşlayın.",
+      "Baharatları ekleyin.",
+      "Yağda kavurun."
+    ]
+  },
+  {
+    "ad": "Couscous",
+    "malzemeler": [
+      "Karabiber",
+      "Et",
+      "Süt",
+      "Un",
+      "Şeker"
+    ],
+    "asamalar": [
+      "Suda haşlayın.",
+      "Tüm malzemeleri karıştırın.",
+      "Fırında pişirin.",
+      "Baharatları ekleyin."
+    ]
+  },
+  {
+    "ad": "Wonton Çorbası",
+    "malzemeler": [
+      "Et",
+      "Biber",
+      "Pirinç",
+      "Karabiber",
+      "Zeytinyağı",
+      "Sarımsak"
+    ],
+    "asamalar": [
+      "Suda haşlayın.",
+      "Yağda kavurun.",
+      "Ocakta kaynatın.",
+      "Baharatları ekleyin."
+    ]
+  },
+  {
+    "ad": "Ceviche",
+    "malzemeler": [
+      "Biber",
+      "Salça",
+      "Patates",
+      "Pirinç",
+      "Yumurta",
+      "Süt"
+    ],
+    "asamalar": [
+      "Suda haşlayın.",
+      "Yağda kavurun.",
+      "Fırında pişirin.",
+      "Ocakta kaynatın."
+    ]
+  },
+  {
+    "ad": "Enchiladas",
+    "malzemeler": [
+      "Bulgur",
+      "Karabiber",
+      "Tavuk",
+      "Biber",
+      "Domates"
+    ],
+    "asamalar": [
+      "Ocakta kaynatın.",
+      "Yağda kavurun.",
+      "Suda haşlayın."
+    ]
+  },
+  {
+    "ad": "Tom Yum Çorbası",
+    "malzemeler": [
+      "Un",
+      "Kırmızı Biber",
+      "Patates",
+      "Sarımsak",
+      "Domates"
+    ],
+    "asamalar": [
+      "Baharatları ekleyin.",
+      "Yağda kavurun.",
+      "Ocakta kaynatın."
+    ]
+  },
+  {
+    "ad": "Pad Thai",
+    "malzemeler": [
+      "Şeker",
+      "Tuz",
+      "Salça",
+      "Süt",
+      "Yumurta",
+      "Domates"
+    ],
+    "asamalar": [
+      "Tüm malzemeleri karıştırın.",
+      "Malzemeleri doğrayın.",
+      "Suda haşlayın."
+    ]
+  },
+  {
+    "ad": "Miso Çorbası",
+    "malzemeler": [
+      "Pirinç",
+      "Biber",
+      "Patates",
+      "Et"
+    ],
+    "asamalar": [
+      "Fırında pişirin.",
+      "Yağda kavurun.",
+      "Ocakta kaynatın.",
+      "Suda haşlayın.",
+      "Malzemeleri doğrayın."
+    ]
+  },
+  {
+    "ad": "Sushi",
+    "malzemeler": [
+      "Domates",
+      "Salça",
+      "Tavuk",
+      "Patates",
+      "Süt",
+      "Şeker"
+    ],
+    "asamalar": [
+      "Yağda kavurun.",
+      "Suda haşlayın.",
+      "Ocakta kaynatın.",
+      "Tüm malzemeleri karıştırın.",
+      "Baharatları ekleyin."
+    ]
+  },
+  {
+    "ad": "Laksa",
+    "malzemeler": [
+      "Domates",
+      "Tavuk",
+      "Şeker",
+      "Bulgur",
+      "Patates"
+    ],
+    "asamalar": [
+      "Baharatları ekleyin.",
+      "Fırında pişirin.",
+      "Yağda kavurun.",
+      "Tüm malzemeleri karıştırın.",
+      "Ocakta kaynatın."
+    ]
+  },
+  {
+    "ad": "Ramen",
+    "malzemeler": [
+      "Pirinç",
+      "Yumurta",
+      "Un",
+      "Kırmızı Biber"
+    ],
+    "asamalar": [
+      "Tüm malzemeleri karıştırın.",
+      "Baharatları ekleyin.",
+      "Fırında pişirin.",
+      "Yağda kavurun.",
+      "Ocakta kaynatın."
+    ]
+  },
+  {
+    "ad": "Beef Stroganoff",
+    "malzemeler": [
+      "Şeker",
+      "Biber",
+      "Salça",
+      "Kırmızı Biber"
+    ],
+    "asamalar": [
+      "Baharatları ekleyin.",
+      "Yağda kavurun.",
+      "Tüm malzemeleri karıştırın.",
+      "Ocakta kaynatın.",
+      "Malzemeleri doğrayın."
+    ]
+  },
+  {
+    "ad": "Tortilla Española",
+    "malzemeler": [
+      "Yumurta",
+      "Şeker",
+      "Karabiber",
+      "Biber",
+      "Zeytinyağı"
+    ],
+    "asamalar": [
+      "Fırında pişirin.",
+      "Yağda kavurun.",
+      "Malzemeleri doğrayın."
+    ]
+  },
+  {
+    "ad": "Churros",
+    "malzemeler": [
+      "Şeker",
+      "Sarımsak",
+      "Domates",
+      "Un",
+      "Et"
+    ],
+    "asamalar": [
+      "Fırında pişirin.",
+      "Baharatları ekleyin.",
+      "Yağda kavurun.",
+      "Suda haşlayın."
+    ]
+  },
+  {
+    "ad": "Çiğ Köfte",
+    "malzemeler": [
+      "Salça",
+      "Süt",
+      "Tavuk",
+      "Pirinç",
+      "Sarımsak",
+      "Biber"
+    ],
+    "asamalar": [
+      "Baharatları ekleyin.",
+      "Ocakta kaynatın.",
+      "Suda haşlayın.",
+      "Malzemeleri doğrayın."
+    ]
+  },
+  {
+    "ad": "Butter Chicken",
+    "malzemeler": [
+      "Şeker",
+      "Sarımsak",
+      "Tuz",
+      "Tavuk"
+    ],
+    "asamalar": [
+      "Baharatları ekleyin.",
+      "Malzemeleri doğrayın.",
+      "Ocakta kaynatın.",
+      "Fırında pişirin.",
+      "Suda haşlayın."
+    ]
+  },
+  {
+    "ad": "Samosa",
+    "malzemeler": [
+      "Tuz",
+      "Un",
+      "Pirinç",
+      "Tereyağı"
+    ],
+    "asamalar": [
+      "Tüm malzemeleri karıştırın.",
+      "Ocakta kaynatın.",
+      "Suda haşlayın.",
+      "Fırında pişirin.",
+      "Malzemeleri doğrayın."
+    ]
+  },
+  {
+    "ad": "Dim Sum",
+    "malzemeler": [
+      "Zeytinyağı",
+      "Sarımsak",
+      "Şeker",
+      "Et",
+      "Soğan"
+    ],
+    "asamalar": [
+      "Tüm malzemeleri karıştırın.",
+      "Ocakta kaynatın.",
+      "Yağda kavurun.",
+      "Suda haşlayın.",
+      "Malzemeleri doğrayın."
+    ]
+  },
+  {
+    "ad": "Biryani",
+    "malzemeler": [
+      "Domates",
+      "Kırmızı Biber",
+      "Patates",
+      "Pirinç",
+      "Salça"
+    ],
+    "asamalar": [
+      "Tüm malzemeleri karıştırın.",
+      "Fırında pişirin.",
+      "Yağda kavurun."
+    ]
+  },
+  {
+    "ad": "Pretzel",
+    "malzemeler": [
+      "Tavuk",
+      "Kırmızı Biber",
+      "Soğan",
+      "Pirinç",
+      "Sarımsak",
+      "Tuz"
+    ],
+    "asamalar": [
+      "Yağda kavurun.",
+      "Malzemeleri doğrayın.",
+      "Baharatları ekleyin.",
+      "Tüm malzemeleri karıştırın."
+    ]
+  },
+  {
+    "ad": "Bouillabaisse",
+    "malzemeler": [
+      "Un",
+      "Soğan",
+      "Sarımsak",
+      "Süt",
+      "Domates"
+    ],
+    "asamalar": [
+      "Fırında pişirin.",
+      "Malzemeleri doğrayın.",
+      "Ocakta kaynatın.",
+      "Suda haşlayın."
+    ]
+  },
+  {
+    "ad": "Kuru Fasulye",
+    "malzemeler": [
+      "Zeytinyağı",
+      "Tuz",
+      "Sarımsak",
+      "Kırmızı Biber",
+      "Salça",
+      "Süt"
+    ],
+    "asamalar": [
+      "Yağda kavurun.",
+      "Suda haşlayın.",
+      "Ocakta kaynatın.",
+      "Malzemeleri doğrayın.",
+      "Fırında pişirin."
+    ]
+  },
+  {
+    "ad": "Şakşuka",
+    "malzemeler": [
+      "Patates",
+      "Biber",
+      "Domates",
+      "Karabiber"
+    ],
+    "asamalar": [
+      "Ocakta kaynatın.",
+      "Suda haşlayın.",
+      "Yağda kavurun.",
+      "Malzemeleri doğrayın.",
+      "Fırında pişirin."
+    ]
+  },
+  {
+    "ad": "Apple Pie",
+    "malzemeler": [
+      "Biber",
+      "Pirinç",
+      "Yumurta",
+      "Soğan",
+      "Bulgur"
+    ],
+    "asamalar": [
+      "Fırında pişirin.",
+      "Ocakta kaynatın.",
+      "Baharatları ekleyin.",
+      "Malzemeleri doğrayın.",
+      "Yağda kavurun."
+    ]
+  },
+  {
+    "ad": "Greek Salad",
+    "malzemeler": [
+      "Un",
+      "Biber",
+      "Sarımsak",
+      "Kırmızı Biber"
+    ],
+    "asamalar": [
+      "Baharatları ekleyin.",
+      "Tüm malzemeleri karıştırın.",
+      "Suda haşlayın."
+    ]
+  },
+  {
+    "ad": "Chow Mein",
+    "malzemeler": [
+      "Salça",
+      "Soğan",
+      "Kırmızı Biber",
+      "Domates"
+    ],
+    "asamalar": [
+      "Yağda kavurun.",
+      "Fırında pişirin.",
+      "Ocakta kaynatın."
+    ]
+  },
+  {
+    "ad": "Quiche Lorraine",
+    "malzemeler": [
+      "Sarımsak",
+      "Süt",
+      "Tuz",
+      "Biber"
+    ],
+    "asamalar": [
+      "Yağda kavurun.",
+      "Malzemeleri doğrayın.",
+      "Ocakta kaynatın.",
+      "Fırında pişirin.",
+      "Tüm malzemeleri karıştırın."
+    ]
+  },
+  {
+    "ad": "Kung Pao Chicken",
+    "malzemeler": [
+      "Patates",
+      "Kırmızı Biber",
+      "Süt",
+      "Bulgur",
+      "Pirinç"
+    ],
+    "asamalar": [
+      "Tüm malzemeleri karıştırın.",
+      "Malzemeleri doğrayın.",
+      "Fırında pişirin."
+    ]
+  },
+  {
+    "ad": "Mac and Cheese",
+    "malzemeler": [
+      "Domates",
+      "Karabiber",
+      "Soğan",
+      "Patates"
+    ],
+    "asamalar": [
+      "Baharatları ekleyin.",
+      "Suda haşlayın.",
+      "Fırında pişirin."
+    ]
+  },
+  {
+    "ad": "Lasagna",
+    "malzemeler": [
+      "Biber",
+      "Salça",
+      "Patates",
+      "Karabiber"
+    ],
+    "asamalar": [
+      "Fırında pişirin.",
+      "Yağda kavurun.",
+      "Tüm malzemeleri karıştırın.",
+      "Ocakta kaynatın.",
+      "Malzemeleri doğrayın."
+    ]
+  },
+  {
+    "ad": "Menemen",
+    "malzemeler": [
+      "Domates",
+      "Et",
+      "Un",
+      "Kırmızı Biber",
+      "Zeytinyağı"
+    ],
+    "asamalar": [
+      "Yağda kavurun.",
+      "Tüm malzemeleri karıştırın.",
+      "Suda haşlayın.",
+      "Baharatları ekleyin.",
+      "Fırında pişirin."
+    ]
+  },
+  {
+    "ad": "Tempura",
+    "malzemeler": [
+      "Karabiber",
+      "Süt",
+      "Domates",
+      "Biber",
+      "Bulgur",
+      "Soğan"
+    ],
+    "asamalar": [
+      "Malzemeleri doğrayın.",
+      "Fırında pişirin.",
+      "Ocakta kaynatın.",
+      "Yağda kavurun.",
+      "Suda haşlayın."
+    ]
+  },
+  {
+    "ad": "Moussaka",
+    "malzemeler": [
+      "Un",
+      "Et",
+      "Patates",
+      "Karabiber"
+    ],
+    "asamalar": [
+      "Tüm malzemeleri karıştırın.",
+      "Suda haşlayın.",
+      "Yağda kavurun.",
+      "Malzemeleri doğrayın."
+    ]
+  },
+  {
+    "ad": "Burrito",
+    "malzemeler": [
+      "Soğan",
+      "Tereyağı",
+      "Kırmızı Biber",
+      "Tuz"
+    ],
+    "asamalar": [
+      "Fırında pişirin.",
+      "Ocakta kaynatın.",
+      "Malzemeleri doğrayın.",
+      "Baharatları ekleyin."
+    ]
+  },
+  {
+    "ad": "Risotto",
+    "malzemeler": [
+      "Tuz",
+      "Un",
+      "Bulgur",
+      "Tereyağı",
+      "Patates"
+    ],
+    "asamalar": [
+      "Ocakta kaynatın.",
+      "Fırında pişirin.",
+      "Baharatları ekleyin.",
+      "Yağda kavurun.",
+      "Tüm malzemeleri karıştırın."
+    ]
+  },
+  {
+    "ad": "Buffalo Wings",
+    "malzemeler": [
+      "Kırmızı Biber",
+      "Süt",
+      "Et",
+      "Tuz",
+      "Pirinç"
+    ],
+    "asamalar": [
+      "Yağda kavurun.",
+      "Ocakta kaynatın.",
+      "Suda haşlayın.",
+      "Fırında pişirin."
+    ]
+  }
+]
